@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56346e6c-80a3-4cee-9756-05647ca8ed83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Vuforia/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Vuforia/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Vuforia/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Vuforia/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Vuforia/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Vuforia/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Vuforia/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassRoom/ModelsTest/.idea/.idea.ModelsTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassRoom/ModelsTest/.idea/.idea.ModelsTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassRoom/ModelsTest/Assets/Scenes/02.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassRoom/ModelsTest/Assets/Scenes/02.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassRoom/ModelsTest/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassRoom/ModelsTest/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassRoom/ModelsTest/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassRoom/ModelsTest/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassRoom/ModelsTest/Library/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassRoom/ModelsTest/Library/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassRoom/ModelsTest/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassRoom/ModelsTest/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassRoom/ModelsTest/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassRoom/ModelsTest/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassRoom/ModelsTest/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassRoom/ModelsTest/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassRoom/ModelsTest/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassRoom/ModelsTest/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassRoom/ModelsTest/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassRoom/ModelsTest/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/.idea/.idea.ModelsTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/.idea/.idea.ModelsTest/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/.idea/.idea.ModelsTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/.idea/.idea.ModelsTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Assets/Materials/Cube.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Assets/Materials/Cube.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Assets/Materials/Desk.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Assets/Materials/Desk.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Assets/Scenes/02.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Assets/Scenes/02.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Assets/Scripts/RgidibodyMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Assets/Scripts/RgidibodyMove.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/EditorInstance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/ProtocolInstance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/metadata/3c/3c0ad459c1534645b5d603b7cc258f97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/metadata/68/68d1da572d993c74f9d14e12c72c4128.info" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/metadata/68/68d1da572d993c74f9d14e12c72c4128.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/metadata/73/739bbd9f364b4268874f9fd86ab3beef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/metadata/77/771524e764c9b70469ec1be4af407fa7.info" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/metadata/77/771524e764c9b70469ec1be4af407fa7.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/metadata/7c/7cbab2be89b54486bbd23a6fe637d30e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/metadata/85/852e56802eb941638acbb491814497b0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/metadata/8e/8e0cd8ed44d4412cbe0642067abc9e44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/metadata/8e/8eb68bb36e8e61348b770066038e654c" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/metadata/8e/8eb68bb36e8e61348b770066038e654c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/metadata/97/97decbdab0634cdd991f8d23ddf0dead" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/11/ModelsTest/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityLockfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-0f392e7312d326e4c92eef520aabe628" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-204d04c16d6c9874fb82b2881a0e89b3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-24191a373116f5547974945561846d8c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-35b804aca849c814cb578c21c5802db5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-48b1190739ecf7b4a8dd34651e40f09a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-491f723655bec5f47a11757b1a270c91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-5694543a8a761504493274edd2e96a8f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-5b89c1656f17732478d31b2afba9dec8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-5e47bbd14c468fa47a73bc3970f0e3df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-5fd65509243c86e40b80fbdc0846e2dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-69093591f71ffed46a2803b51b58b99e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-7115833dbbc8767499886646d125075a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-7ae0b42c14e09fe42bf34ccf60fbd284" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-830760d77790d91448df14d8065da14a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-844f5a8f33ffc4342bc62a08c0d634f8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-86c6c353cedd4d340afc94a15f0209b1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-8937f3db585b4b7409adaf927ad9c7d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-8d5dc67c155671e46a98167708da0d2f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-95b8a5309dd753f40a56d9ab71d195cd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-986032dd3e3fc634895eedfe4065f400" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-9d036befdddf1164687c94a7e1245902" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-a21713d72ccd198419b06ec183549270" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-bfc6ea7ccf8020c4f915bddbb094d9c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-c16a2e7749890e14493452af5f94a999" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-c1c08b83c78aa5847ada3ad8357ed9aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-c1f2de2254cab664ca04780945ae8120" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-c83be501ec41cd24f9ab6c93b7b3ffe9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-d2342836044191e4e9038b25479c0416" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-e3d56fd078ddb1e49baed4c196c1b6a8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-ea9891880d4515540b94f9123d2f5020" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/UnityTempFile-f19894a9216566b48b7c3c812cca59ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/11/ModelsTest/Temp/__Backupscenes/0.backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/ModelsTest/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/ModelsTest/Library/CurrentLayout.dwlt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/MyDefaultTrackableEventHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1139">
+              <caret line="83" column="18" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="18" />
+              <folding>
+                <marker date="1552387106544" expanded="true" signature="0:378" ph="/* ============================================================================== ... */" />
+                <marker date="1552387106544" expanded="false" signature="386:413" ph="..." />
+                <marker date="1552387106544" expanded="true" signature="415:709" ph="/// A custom handler that implements the ITrackableEventHandler interface. ... " />
+                <marker date="1552387106544" expanded="true" signature="793:4869" ph="{...}" />
+                <marker date="1552387106544" expanded="true" signature="905:1040" ph="PROTECTED_MEMBER_VARIABLES" />
+                <marker date="1552387106544" expanded="false" signature="1046:1500" ph="UNITY_MONOBEHAVIOUR_METHODS" />
+                <marker date="1552387106544" expanded="true" signature="1117:1297" ph="{...}" />
+                <marker date="1552387106544" expanded="true" signature="1337:1453" ph="{...}" />
+                <marker date="1552387106544" expanded="true" signature="1506:2752" ph="PUBLIC_METHODS" />
+                <marker date="1552387106544" expanded="true" signature="1534:1684" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
+                <marker date="1552387106544" expanded="true" signature="1820:2718" ph="{...}" />
+                <marker date="1552387106544" expanded="true" signature="2020:2155" ph="{...}" />
+                <marker date="1552387106544" expanded="true" signature="2292:2425" ph="{...}" />
+                <marker date="1552387106544" expanded="true" signature="2438:2712" ph="{...}" />
+                <marker date="1552387106544" expanded="true" signature="2461:2672" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
+                <marker date="1552387106544" expanded="true" signature="2758:4867" ph="PROTECTED_METHODS" />
+                <marker date="1552387106544" expanded="true" signature="2829:3962" ph="{...}" />
+                <marker date="1552387106544" expanded="true" signature="3324:3956" ph="/* 找到需要识别的物体 ... */" />
+                <marker date="1552387106544" expanded="true" signature="4008:4831" ph="{...}" />
+                <marker date="1552387106544" expanded="true" signature="4210:4825" ph="/* var rendererComponents = GetComponentsInChildren&lt;Renderer&gt;(true); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RFS/RFX_Scripts/ParticleScaler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/MyDefaultTrackableEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/RFS/RFX_Scripts/ParticleScaler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Vuforia/Scripts/MyDefaultTrackableEventHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/MyDefaultTrackableEventHandler.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-30" />
+    <option name="y" value="125" />
+    <option name="width" value="870" />
+    <option name="height" value="750" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56346e6c-80a3-4cee-9756-05647ca8ed83" name="Default Changelist" comment="" />
+      <created>1552206732485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552206732485</updated>
+      <workItem from="1552206733766" duration="32000" />
+      <workItem from="1552211917674" duration="119000" />
+      <workItem from="1552212058427" duration="1319000" />
+      <workItem from="1552381429379" duration="3407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4877000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.112600535" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="e#380#413#0" expanded="true" />
+            <marker date="1552212152504" expanded="true" signature="0:378" ph="/* ============================================================================== ... */" />
+            <marker date="1552212152504" expanded="true" signature="415:709" ph="/// A custom handler that implements the ITrackableEventHandler interface. ... " />
+            <marker date="1552212152504" expanded="true" signature="791:4044" ph="{...}" />
+            <marker date="1552212152504" expanded="true" signature="803:938" ph="PROTECTED_MEMBER_VARIABLES" />
+            <marker date="1552212152504" expanded="true" signature="944:1398" ph="UNITY_MONOBEHAVIOUR_METHODS" />
+            <marker date="1552212152504" expanded="true" signature="1015:1195" ph="{...}" />
+            <marker date="1552212152504" expanded="true" signature="1235:1351" ph="{...}" />
+            <marker date="1552212152504" expanded="true" signature="1404:2650" ph="PUBLIC_METHODS" />
+            <marker date="1552212152504" expanded="true" signature="1432:1582" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
+            <marker date="1552212152504" expanded="true" signature="1718:2616" ph="{...}" />
+            <marker date="1552212152504" expanded="true" signature="1918:2053" ph="{...}" />
+            <marker date="1552212152504" expanded="true" signature="2190:2323" ph="{...}" />
+            <marker date="1552212152504" expanded="true" signature="2336:2610" ph="{...}" />
+            <marker date="1552212152504" expanded="true" signature="2359:2570" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
+            <marker date="1552212152504" expanded="true" signature="2656:4042" ph="PROTECTED_METHODS" />
+            <marker date="1552212152504" expanded="true" signature="2727:3340" ph="{...}" />
+            <marker date="1552212152504" expanded="true" signature="3386:4006" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RFS/RFX_Scripts/ParticleScaler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2312">
+          <caret line="136" selection-end-line="136" />
+          <folding>
+            <marker date="1552212753884" expanded="true" signature="0:4541" ph="/* This script will only work in editor mode. You cannot adjust the scale dynamically in-game! ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/MyDefaultTrackableEventHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/MyDefaultTrackableEventHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="83" column="18" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="18" />
+          <folding>
+            <marker date="1552387106544" expanded="true" signature="0:378" ph="/* ============================================================================== ... */" />
+            <marker date="1552387106544" expanded="false" signature="386:413" ph="..." />
+            <marker date="1552387106544" expanded="true" signature="415:709" ph="/// A custom handler that implements the ITrackableEventHandler interface. ... " />
+            <marker date="1552387106544" expanded="true" signature="793:4869" ph="{...}" />
+            <marker date="1552387106544" expanded="true" signature="905:1040" ph="PROTECTED_MEMBER_VARIABLES" />
+            <marker date="1552387106544" expanded="false" signature="1046:1500" ph="UNITY_MONOBEHAVIOUR_METHODS" />
+            <marker date="1552387106544" expanded="true" signature="1117:1297" ph="{...}" />
+            <marker date="1552387106544" expanded="true" signature="1337:1453" ph="{...}" />
+            <marker date="1552387106544" expanded="true" signature="1506:2752" ph="PUBLIC_METHODS" />
+            <marker date="1552387106544" expanded="true" signature="1534:1684" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
+            <marker date="1552387106544" expanded="true" signature="1820:2718" ph="{...}" />
+            <marker date="1552387106544" expanded="true" signature="2020:2155" ph="{...}" />
+            <marker date="1552387106544" expanded="true" signature="2292:2425" ph="{...}" />
+            <marker date="1552387106544" expanded="true" signature="2438:2712" ph="{...}" />
+            <marker date="1552387106544" expanded="true" signature="2461:2672" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
+            <marker date="1552387106544" expanded="true" signature="2758:4867" ph="PROTECTED_METHODS" />
+            <marker date="1552387106544" expanded="true" signature="2829:3962" ph="{...}" />
+            <marker date="1552387106544" expanded="true" signature="3324:3956" ph="/* 找到需要识别的物体 ... */" />
+            <marker date="1552387106544" expanded="true" signature="4008:4831" ph="{...}" />
+            <marker date="1552387106544" expanded="true" signature="4210:4825" ph="/* var rendererComponents = GetComponentsInChildren&lt;Renderer&gt;(true); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
